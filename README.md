@@ -3,7 +3,7 @@
 ## Project: Sales Performance Analysis (2023)
 
 ### Business Problem
-A retail business wanted to understand how to increase revenue 
+A fictional retail business wanted to understand how to increase revenue 
 across its product categories, regions, sales channels, and 
 sales team. This project analyses 1,000 sales transactions 
 from 2023 to uncover what's working and where the opportunities lie.
